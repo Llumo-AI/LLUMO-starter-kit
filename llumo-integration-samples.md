@@ -75,16 +75,19 @@ Instructions:You are a helpful and informative chatbot designed to answer questi
 #### Output
 
 ```
-Healthify can assist surgeons in planning for an omentectomy by providing interactive 3D models of the patient's anatomy. This allows surgeons to visualize the surgical field and plan the procedure with greater precision. The platform also offers tools for virtual incision planning, instrument selection, and simulation of surgical maneuvers, which can help surgeons prepare for the specific challenges of an omentectomy.
+Healthify can significantly enhance your omentectomy planning process by providing interactive 3D models of the patient's anatomy, enabling you to visualize the surgical field with exceptional precision. This leads to more informed decisions regarding incision planning and instrument selection, ultimately contributing to improved patient outcomes. Additionally, Healthify offers tools for simulating surgical maneuvers, allowing you to prepare for the specific challenges of an omentectomy and potentially reduce the risk of complications.
 ```
 #### Definition Name
 
-**Clarity**
+**Customer Success**
 
 #### Definition Description
 
-Clarity refers to the comprehensibility and ease of understanding of the response. It evaluates whether the response is written in a clear, concise, and straightforward manner, using simple language and avoiding jargon or technical terms that the user may not understand. A clear response ensures that the user can easily grasp the information presented.
-
+Customer Success evaluates how well the chatbot response aligns with the potential needs and goals of a surgeon (the customer) who is considering using Healthify for surgical planning. It assesses whether the response effectively addresses the surgeon's likely pain points, demonstrates a deep understanding of the surgical workflow, and positions Healthify as a solution that can contribute to successful surgical outcomes and enhanced professional practice.
+Scoring Criteria:
+Strong Focus (70-100): The response demonstrates a strong understanding of a surgeon's needs and priorities when planning an omentectomy. It highlights how Healthify's features directly address those needs (e.g., reducing complications, improving efficiency, enabling better decision-making) and showcases the potential for positive impact on the surgeon's practice and patient outcomes. Language is tailored to the surgeon's perspective.
+Moderate Focus (40-69): The response acknowledges some aspects of the customer's perspective but may not fully connect Healthify's features to the specific challenges and desired outcomes of a surgeon. The focus on customer success is present but not as prominent or persuasive.
+Weak Focus (0-39): The response is primarily feature-focused and lacks a clear connection to the customer's needs and goals. It may describe Healthify's capabilities in a generic way without demonstrating a deep understanding of the surgical context or how the platform can contribute to the surgeon's success.
 #### Human Score
 
 **75**
@@ -100,16 +103,20 @@ Clarity refers to the comprehensibility and ease of understanding of the respons
 #### Output
 
 ```
-Healthify can help surgeons plan for an omentectomy by providing them with interactive 3D models of patient anatomy. This allows surgeons to visualize the surgical field and plan the procedure with greater precision. The platform also provides tools for virtual incision planning, instrument selection, and simulation of surgical maneuvers, which can help surgeons to better understand the procedure and make more informed decisions.
+Healthify's interactive 3D models can be helpful for visualizing the patient's anatomy during omentectomy planning. Surgeons can use these models to plan the procedure with greater precision. The platform also includes tools for virtual incision planning, instrument selection, and simulation, which may lead to a better understanding of the procedure.
 ```
 #### Definition Name
 
-**Clarity**
+**Customer Success**
 
 #### Definition Description
 
-Clarity refers to the comprehensibility and ease of understanding of the response. It evaluates whether the response is written in a clear, concise, and straightforward manner, using simple language and avoiding jargon or technical terms that the user may not understand. A clear response ensures that the user can easily grasp the information presented.
-#### Example Type
+Customer Success evaluates how well the chatbot response aligns with the potential needs and goals of a surgeon (the customer) who is considering using Healthify for surgical planning. It assesses whether the response effectively addresses the surgeon's likely pain points, demonstrates a deep understanding of the surgical workflow, and positions Healthify as a solution that can contribute to successful surgical outcomes and enhanced professional practice.
+Scoring Criteria:
+Strong Focus (70-100): The response demonstrates a strong understanding of a surgeon's needs and priorities when planning an omentectomy. It highlights how Healthify's features directly address those needs (e.g., reducing complications, improving efficiency, enabling better decision-making) and showcases the potential for positive impact on the surgeon's practice and patient outcomes. Language is tailored to the surgeon's perspective.
+Moderate Focus (40-69): The response acknowledges some aspects of the customer's perspective but may not fully connect Healthify's features to the specific challenges and desired outcomes of a surgeon. The focus on customer success is present but not as prominent or persuasive.
+Weak Focus (0-39): The response is primarily feature-focused and lacks a clear connection to the customer's needs and goals. It may describe Healthify's capabilities in a generic way without demonstrating a deep understanding of the surgical context or how the platform can contribute to the surgeon's success.
+#### Human Score
 
 **50**
 
@@ -124,16 +131,20 @@ Clarity refers to the comprehensibility and ease of understanding of the respons
 #### Output
 
 ```
-Healthify can help surgeons plan for an omentectomy by providing them with a 3D model of the patient's anatomy. This allows surgeons to visualize the surgical field and plan the procedure with greater precision. Healthify also provides tools for virtual incision planning, instrument selection, and simulation of surgical maneuvers.
+Healthify has a 3D model feature that can be used for omentectomy planning. It also has some other tools.
 ```
 #### Definition Name
 
-**Clarity**
+**Customer Success**
 
 #### Definition Description
 
-Clarity refers to the comprehensibility and ease of understanding of the response. It evaluates whether the response is written in a clear, concise, and straightforward manner, using simple language and avoiding jargon or technical terms that the user may not understand. A clear response ensures that the user can easily grasp the information presented.
-#### Example Type
+Customer Success evaluates how well the chatbot response aligns with the potential needs and goals of a surgeon (the customer) who is considering using Healthify for surgical planning. It assesses whether the response effectively addresses the surgeon's likely pain points, demonstrates a deep understanding of the surgical workflow, and positions Healthify as a solution that can contribute to successful surgical outcomes and enhanced professional practice.
+Scoring Criteria:
+Strong Focus (70-100): The response demonstrates a strong understanding of a surgeon's needs and priorities when planning an omentectomy. It highlights how Healthify's features directly address those needs (e.g., reducing complications, improving efficiency, enabling better decision-making) and showcases the potential for positive impact on the surgeon's practice and patient outcomes. Language is tailored to the surgeon's perspective.
+Moderate Focus (40-69): The response acknowledges some aspects of the customer's perspective but may not fully connect Healthify's features to the specific challenges and desired outcomes of a surgeon. The focus on customer success is present but not as prominent or persuasive.
+Weak Focus (0-39): The response is primarily feature-focused and lacks a clear connection to the customer's needs and goals. It may describe Healthify's capabilities in a generic way without demonstrating a deep understanding of the surgical context or how the platform can contribute to the surgeon's success.
+#### Human Score
 
 **30**
 
